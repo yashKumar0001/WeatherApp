@@ -1,4 +1,4 @@
-// const API_KEY = "7e46d6e5d9130365590fa441e187fcd2";
+// const API_KEY = "ENTER_API_KEY";
 
 // function renderWeatherInfo(data){
 //     let latitude = 15.3333;
